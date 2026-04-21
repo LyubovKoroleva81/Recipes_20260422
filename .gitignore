@@ -1,0 +1,6 @@
+*.tmp
+*.temp
+*.ba[kco]
+
+tmp/
+temp/
