@@ -1,8 +1,12 @@
 # Рецепты
 
-- [Брауни](brownie.md)
-- [Банановые панкейки](banan_cake.md)
-- [Картофель "Айдахо"](potato_aidaho.md)
-- [Банановый хлеб](banana_bread.md)
-- [Курица «Пикассо»](chicken_picasso.md)
+1. Основные блюда:
+	1. [Картофель "Айдахо"](potato_aidaho.md)
+	2. [Курица «Пикассо»](chicken_picasso.md)
+
+2. Выпечка:
+	1. [Брауни](brownie.md)
+	2. [Банановые панкейки](banan_cake.md)
+3. Десерты:
+	1. [Банановый хлеб](banana_bread.md)
 
